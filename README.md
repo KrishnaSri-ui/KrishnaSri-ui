@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hello! I'm Kondeti Krishna Sri
+# 👋 Hello! I'm Krishna Sri Kondeti.
 
 🎓 I'm a 4th-year B.Tech Computer Science and Engineering (CSE) student with a passion for technology, development, and continuous learning. I'm currently exploring new tools and technologies and building my portfolio one project at a time.
 
